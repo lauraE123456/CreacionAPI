@@ -1,0 +1,25 @@
+{
+    "clientes":[ 
+        {
+            "id":1,
+            "nombre":"Laura",
+            "apellido":"Albarracin",
+            "telefono": 3244582033,
+            "email":"Laura@gmail.com"
+        },
+        {
+            "id":2,
+            "nombre":"Wilmar",
+            "apellido":"Amaya",
+            "telefono": 3216172635,
+            "email":"Wili@gmail.com"
+        }
+    ],
+    "categoria":[
+        {
+            "id":1,
+            "Nombre Categoria":"postre"
+        }
+    ]
+
+}
